@@ -28,6 +28,6 @@ B 2^30= 107 374 1824
 
 1.5 - How many 32 kilobyte memory banks are required to make 10MB of memory (2 marks)
 1 mb = 1024 1kb
-10*1024 =10 240
-10240/32
+10*1024 =10 240KB
+10240KB/32MB
 =320 banks are required 
